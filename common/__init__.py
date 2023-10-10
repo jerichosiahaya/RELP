@@ -1,0 +1,1 @@
+from .one_shot import eg_original_article, eg_summarized_article
