@@ -1,5 +1,8 @@
 # ✨ RELP (RAG Enhancement for LLM-based Prediction)
 
+![image](https://github.com/jerichosiahaya/RELP/assets/47173293/f2cdbf90-9172-4bd1-9e14-6f0f43accb1a)
+
+
 ## Project Description and Motivation
 ### The RELP approach
 
